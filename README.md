@@ -1,34 +1,3 @@
-# vocab-app
-
-準備英文考試的時候，覺得用紙本背單字很無趣，所以決定自己用 Gemini Vibe Coding 做一個小工具，讓我能背得心甘情願一點，也更符合自己的需求。
-
-## 功能
-
-- **左滑入庫** — 看完覺得記住了就可以滑掉
-- **進度條定位** — 可以從任意位置繼續，不用從頭開始
-- **單字庫檢視** — 隨時查看已收錄的單字
-- **學習統計** — 掌握自己的進度
-
-## 在自己的電腦上開啟
-
-不需要安裝任何東西，下載後直接用瀏覽器打開就好。
-
-```bash
-git clone https://github.com/alinafancc/vocab-app.git
-cd vocab-app
-```
-
-然後用瀏覽器打開 `index.html`，或是直接雙擊檔案。
-
-也可以直接在這裡試用：[alinafancc.github.io/vocab-app](https://alinafancc.github.io/vocab-app)
-
-## 一點後記
-
-做完用了一段時間之後，發現市面上已經有功能類似的手機 App。某種程度上算是被市場驗證了自己的想法，方向跟別人的解法高度吻合，這讓我還蠻有信心的。
-
-不過其實自己做的還是最順手，也最符合需求。所以只要在電腦前，我還是會用這個。
-
-
 # vocab-app 個人化英文單字學習工具
 
 這是我為了應對英文考試、提升背單字效率，透過 **Gemini Vibe Coding** 模式開發的網頁工具。我希望背單字不再是枯燥的紙上作業，而是一個能背得心甘情願且高度契合個人需求的過程。
@@ -69,9 +38,10 @@ cd vocab-app
 
 如果你想下載原始碼進行修改或離線使用：
 
-1.  **複製專案**：
-    ```bash
-    git clone [https://github.com/alinafancc/vocab-app.git](https://github.com/alinafancc/vocab-app.git)
-    ```
-2.  **開啟檔案**：
-    進入資料夾後，直接用瀏覽器打開 `index.html`（或是直接雙擊檔案）即可運行。
+```bash
+git clone https://github.com/alinafancc/vocab-app.git
+cd vocab-app
+```
+
+然後用瀏覽器打開 `index.html`，或是直接雙擊檔案。
+
